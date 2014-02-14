@@ -3,7 +3,6 @@ Jinja2==2.6
 Mako==0.5.0
 MarkupSafe==0.15
 MySQL-python==1.2.3
-PAM==0.4.2
 PIL==1.1.7
 PyYAML==3.10
 Pygments==1.4

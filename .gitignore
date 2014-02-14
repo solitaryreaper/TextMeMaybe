@@ -1,4 +1,3 @@
 *.pyc
 .pydevproject
 .project
-venv/
