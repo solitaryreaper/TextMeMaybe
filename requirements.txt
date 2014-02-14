@@ -1,5 +1,4 @@
 Django==1.6.2
-GnuPGInterface==0.3.2
 Jinja2==2.6
 Mako==0.5.0
 MarkupSafe==0.15
@@ -18,7 +17,6 @@ apturl==0.5.1ubuntu3
 argparse==1.2.1
 beautifulsoup4==4.0.2
 chardet==2.0.1
-command-not-found==0.2.44
 configglue==1.0
 configobj==4.7.2
 debtagshw==0.1
