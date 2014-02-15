@@ -22,7 +22,6 @@ def postweather(request):
         Intercepts a POST request from twilio server, fetches the message parameters and
         then returns the weather for the specified city in TwiML format.
     """
-    print "Inside POST . Request : " + str(request)
     params = request.POST
     print "POST request parameters : " + str(params)
 
