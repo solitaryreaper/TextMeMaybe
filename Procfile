@@ -1,1 +1,1 @@
-worker: python manage.py runserver 8001
+web: python manage.py runserver 8001
