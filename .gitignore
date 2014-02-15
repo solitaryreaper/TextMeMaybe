@@ -1,3 +1,4 @@
-*.pyc
+smsweather/*.pyc
+TextWeather/*.pyc
 .pydevproject
 .project
