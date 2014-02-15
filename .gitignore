@@ -2,3 +2,4 @@ smsweather/*.pyc
 TextWeather/*.pyc
 .pydevproject
 .project
+*.pem
