@@ -6,4 +6,4 @@ django-toolbelt==0.0.1
 python-forecastio==0.1
 twilio==3.6.5
 pygeocoder==1.2.2
-
+psycopg2==2.4.5
